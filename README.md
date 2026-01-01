@@ -53,5 +53,12 @@ streamlit run app.py
 
 This project is for educational and analytical purposes only and should not be used as a medical or clinical diagnostic tool.
 
+## Screenshots
+
+### Burnout Risk Prediction
+![App Prediction](assets/app_prediction.png)
+
+### Model Insights
+![Model Insights](assets/model_insights.png)
 
 
